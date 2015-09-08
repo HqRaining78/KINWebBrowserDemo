@@ -1,0 +1,16 @@
+//
+//  KINWebBrowserDemo.pch
+//  KINWebBrowserDemo
+//
+//  Created by IOF－IOS2 on 15/9/8.
+//  Copyright (c) 2015年 IOF－IOS2. All rights reserved.
+//
+
+#ifndef KINWebBrowserDemo_KINWebBrowserDemo_pch
+#define KINWebBrowserDemo_KINWebBrowserDemo_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+
+#endif
